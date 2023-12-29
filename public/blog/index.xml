@@ -6,15 +6,15 @@
     <description>Recent content in Blog on Ramachandra Pai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Ramachandra Pai (rampai.in)</copyright>
+    <copyright>© 2024 Ramachandra Pai (rampai.in) | Powered by Hugo Doks</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:21:44 +0200</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Post</title>
-      <link>/blog/example-post/</link>
-      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>/blog/example-post/</guid>
-      <description>You can use blog posts for announcing product updates and features.</description>
+      <title>What is AEM?</title>
+      <link>/blog/what-is-aem/</link>
+      <pubDate>Thu, 28 Dec 2023 15:10:10 +0200</pubDate>
+      <guid>/blog/what-is-aem/</guid>
+      <description>Adobe Experience Manager or AEM is Adobe&amp;rsquo;s CMS offering and with more and more features coming out and aggressive promotion of the same, Adobe is doing a great job out there!</description>
     </item>
   </channel>
 </rss>
