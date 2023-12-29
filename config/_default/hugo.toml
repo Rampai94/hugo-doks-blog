@@ -17,7 +17,7 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "© 2024 Ramachandra Pai (rampai.in)"
+copyRight = "© 2024 Ramachandra Pai (rampai.in) | Powered by Hugo Doks"
 
 [build.buildStats]
   enable = true

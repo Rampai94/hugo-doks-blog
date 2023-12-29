@@ -5,10 +5,10 @@
       "article",
       "aside",
       "base",
+      "blockquote",
       "body",
       "button",
       "circle",
-      "code",
       "details",
       "div",
       "footer",
@@ -31,6 +31,7 @@
       "meta",
       "nav",
       "noscript",
+      "ol",
       "p",
       "path",
       "script",
@@ -81,7 +82,6 @@
       "collapse",
       "collapsed",
       "collapsible-sidebar",
-      "container",
       "container-fluid",
       "container-lg",
       "content",
@@ -117,7 +117,6 @@
       "fw-normal",
       "h-auto",
       "h3",
-      "h4",
       "h5",
       "home",
       "icon",
@@ -205,8 +204,6 @@
       "search-results",
       "search-text",
       "section",
-      "section-features",
-      "section-md",
       "show",
       "single",
       "small",
@@ -252,7 +249,9 @@
       "section-45389ee90014e0938cb09409b9a8794d",
       "section-63d5049791d9d79d86e9a108b0a999ca",
       "socialMenu",
-      "toc"
+      "toc",
+      "what-benefits-does-aem-provide",
+      "why-aem"
     ]
   }
 }
