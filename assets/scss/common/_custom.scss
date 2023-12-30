@@ -1,15 +1,29 @@
 // Put your custom SCSS code here
 .footer {
+    min-height: 50px;
     border-top: 1px solid #e9ecef;
     padding-top: 1.125rem;
     padding-bottom: 1.125rem;
-    position: fixed;
+    //position: relative;
     bottom: 0px;
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
+    size: 5px;
 }
 
 .bg-dots {
     height: 18rem;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+header {
+    min-height: 50px;
 }
