@@ -1,14 +1,14 @@
-# [[docs]]
-#   name = "Prologue"
-#   weight = 10
-#   identifier = "prologue"
-#   url = "/docs/prologue/"
+ [[docs]]
+   name = "AEM"
+   weight = 10
+   identifier = "aem"
+   url = "/docs/aem/"
 
-# [[docs]]
-#   name = "Help"
-#   weight = 60
-#   identifier = "help"
-#   url = "/docs/help/"
+ [[docs]]
+   name = "AWS"
+   weight = 60
+   identifier = "aws"
+   url = "/docs/aws/"
 
 # [[docs]]
 #   name = "Lorem"
@@ -16,33 +16,30 @@
 #   identifier = "lorem"
 #   url = "/docs/lorem/"
 
-[[guide]]
-  name = "Lorem"
+[[main]]
+  name = "Creative Space"
   weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
+  url = "/creative-space/"
 
-[[tutorial]]
-  name = "Lorem"
-  weight = 10
-  identifier = "lorem"
-  url = "/tutorial/lorem/"
+# [[main]]
+#  name = "Music"
+#  weight = 10
+#  url = "/music/"
 
 [[main]]
   name = "About"
   url = "/about/"
   weight = 10
 
-# [[main]]
-#  name = "Docs"
-#  url = "/docs/guides/example-guide/"
-# url = "/docs/1.0/prologue/introduction/"
-#  weight = 10
+[[main]]
+  name = "Docs"
+  url = "/docs/"
+  weight = 20
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 30
+  weight = 10
 
 # [[social]]
 #   name = "Twitter"
